@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - Sahil-OFFICAL------•◈•
+|__\~~) •||•KING - FB ID RASHID ALI---------------•◈•
+|__(-----\  •◈•------TUFANI-TIGER--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  sahil jan whatsup 03032069921
+\033[1;96mInstagram nadeem jaan
+\033[1;96mFacebook  Rashid ali-Rehan-khan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sahil/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92m_sahil
+\033[1;96mInstagram \033[1;93m: \033[1;92mfollowsahil
+\033[1;96mFacebook  \033[1;93m: \033[1;92m RASHID ALI
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/SAHIL/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "SAHIL"
+CorrectPassword = "RASHID"
 
 loop = 'true'
 while (loop == 'true'):
